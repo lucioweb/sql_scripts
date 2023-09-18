@@ -27,10 +27,4 @@ mysql> SELECT*FROM produtos;
 |              4 | MAIONEZE     | HEINZ            | MAIONEZE DE OVOS IMPORTADA | CONSERVAS      |        23.890 | 2023-05-01 13:35:16 |
 |              5 | AZEITE       | DO GALO          | AZEITE DE OLIVA IMPORTADO  | ÓLEOS          |         9.450 | 2023-05-01 13:35:16 |
 |              6 | PALMITO      | GALVÃO PALMITOS  | PALMITO DE AÇAÍ            | ENGARRAFADOS   |        14.540 | 2023-05-01 13:35:16 |
-|              7 | MACARRÃO     | ESTRELA          | MACARRÃO MÉDIO DE OVOS     | MASSAS         |        10.450 | 2023-05-01 20:48:38 |
-|              8 | SARDINHA     | GOMES DA COSTA   | PEIXE ENLATADO AO ÓLEO     | ENLATADOS      |        23.340 | 2023-05-01 20:48:38 |
-|              9 | KATCHUP      | HEINZ            | KATCHUP PICANTE IMPORTADO  | CONSERVAS      |        12.110 | 2023-05-01 20:48:38 |
-|             10 | MAIONEZE     | HEINZ            | MAIONEZE DE OVOS IMPORTADA | CONSERVAS      |        23.890 | 2023-05-01 20:48:38 |
-|             11 | AZEITE       | DO GALO          | AZEITE DE OLIVA IMPORTADO  | ÓLEOS          |         9.450 | 2023-05-01 20:48:38 |
-|             12 | PALMITO      | GALVÃO PALMITOS  | PALMITO DE AÇAÍ            | ENGARRAFADOS   |        14.540 | 2023-05-01 20:48:38 |
 +----------------+--------------+------------------+----------------------------+----------------+---------------+---------------------+
