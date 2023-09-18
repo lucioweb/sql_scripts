@@ -18,7 +18,6 @@ INSERT INTO clientes (cliente_nome, cliente_sobrenome, cliente_sexo, cliente_idt
 ('PAULO', 'PABLO','M', '89678123', '90128934-31', '2021-12-22', localtimestamp),
 ('ISAIAS', 'MANOEL','M', '19387134', '2222334134-24', '2021-09-22', localtimestamp);
 
-
 mysql> select*from clientes;
 +-------------+--------------+-------------------+--------------+-------------+---------------+-------------------------+---------------------+
 | cliente_cod | cliente_nome | cliente_sobrenome | cliente_sexo | cliente_idt | cliente_cpf   | cliente_data_nascimento | cliente_ts          |
